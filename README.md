@@ -7,4 +7,5 @@ Data Preprocessing:
 3) Log Transformations of skewed features <br>
 4) Outlier Detection & Removal <br>
 
-Machine Learrning: Ensemble of XGBoost & Extra Trees Classifier (with parameter tuning)
+Machine Learrning: 
+Ensemble of XGBoost & Extra Trees Classifier (with parameter tuning)
